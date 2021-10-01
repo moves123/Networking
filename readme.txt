@@ -1,4 +1,4 @@
-This is the Readme file for the submission for user 554939.
+This is the Readme file for the submission 
 
 This contains the client called location and the server called location server:
 
